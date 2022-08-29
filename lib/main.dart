@@ -18,6 +18,7 @@ Future<void> firebaseSetup() async {
   );
 }
 
+///my app
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
   @override
